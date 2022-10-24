@@ -1,0 +1,7 @@
+{
+	"load": [
+		"chance_to_hit_precision.js",
+		"autoeat_threshold.js",
+		"slayer_extension_info.js"
+	]
+}
