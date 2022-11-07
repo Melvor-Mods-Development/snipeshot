@@ -20,6 +20,8 @@
 			$("#combat-enemy-strength-bonus-better").html(enemy_max_hit);
 			if (enemy_max_hit >= ae_threshold) {
 				$("#combat-enemy-strength-bonus-better").css("color", "#FF0000");
+			} else {
+				$("#combat-enemy-strength-bonus-better").css("color", "#FFFFFF");
 			}
 		}
 	};
